@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mayuri69
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Machine Learning
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
+- 📫 How to reach me ... mayurithorve69@gmail.com
 
 <!---
 Mayuri69/Mayuri69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
